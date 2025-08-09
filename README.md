@@ -84,7 +84,7 @@ zeff-example.com/
 - [sqlmap](https://github.com/sqlmapproject/sqlmap)
 - [dalfox](https://github.com/hahwul/dalfox)
 - [nmap](https://nmap.org/)
-- [brokenlinkchecker]
+- brokenlinkchecker
 ---
 
 ## 📜 License
