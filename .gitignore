@@ -35,3 +35,41 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output directories
+zeff-*             # per-domain output dirs
+output/            # generic output folder if used
+results/           # if storing in results folder
+
+# Temp files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Tool-specific temp
+sqlmap-trash/
+tmp/
+nmap-*.txt
+
+# Python cache (if Sublist3r or other tools make them)
+__pycache__/
+*.pyc
+
+# Go build cache (if using go tools locally)
+bin/
+pkg/
+
+# Editor files
+.vscode/
+.idea/
+
+# User-specific config
+config.json
+.env
+
