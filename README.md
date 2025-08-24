@@ -28,7 +28,7 @@ ZeffRecon is an automated **bug bounty reconnaissance** toolchain that integrate
 Clone this repository:
 
 ```bash
-git clone https://github.com/93883udnw330/zeff-recon.git
+git clone https://github.com/imzeff/zeff-recon.git
 cd zeffrecon
 chmod +x zeffrecon.sh
 ./zeffrecon.sh
