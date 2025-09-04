@@ -17,7 +17,6 @@ ZeffRecon is an automated **bug bounty reconnaissance** toolchain that integrate
   * Nuclei template scanning
 * **Port Scanning**: `nmap` with live screen output
 * **Broken Link Detection** (results saved as `broken-*.txt`)
-* **Directory Brute-Forcing** (via FFUF using SecLists)
 * **Rate Limiting** to avoid blocking
 * **Skip Flags** to selectively skip modules (sqli, xss, nmap, brokenlink, ffuf)
 
@@ -101,7 +100,6 @@ zeff-example.com/
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)
 * [dalfox](https://github.com/hahwul/dalfox)
 * [nmap](https://nmap.org/)
-* [ffuf](https://github.com/ffuf/ffuf)
 * brokenlinkchecker
 
 ---
