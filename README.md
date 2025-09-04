@@ -28,7 +28,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/imzeff/zeff-recon.git
-cd zeffrecon
+cd zeff-recon
 chmod +x zeffrecon.sh
 ./zeffrecon.sh
 ```
